@@ -20,7 +20,7 @@ Para evitar que seu código receba atualizações automáticas do modulo, é pre
 
 ```hcl
 module "circuit-1" {
-  source   = "git::https://timbrasil@dev.azure.com/timbrasil/Projeto_IaC/_git/azr-network/modulo-express-route.git?ref=v1.0.0"
+  source   = "git::https://github.com/mgsj2006/azurerm-module-express-route.git?ref=v1.0.0"
   name     = "circuit-1"
   location = "eastus"
   rg_name  = "resource_group_name"
