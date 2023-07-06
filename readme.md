@@ -1,6 +1,7 @@
 
 # Modulo - Express Route
-[![Avanade](https://img.shields.io/badge/create%20by-Avanade-orange)](https://www.avanade.com/pt-br/about-avanade) [![HCL](https://img.shields.io/badge/language-HCL-blueviolet)](https://www.terraform.io/)
+![Avanade](https://img.shields.io/badge/Create%20by-Manoel-lightblue
+) [![HCL](https://img.shields.io/badge/language-HCL-blueviolet)](https://www.terraform.io/)
 [![Azure](https://img.shields.io/badge/provider-Azure-blue)](https://registry.terraform.io/providers/hashicorp/azurerm/latest)
 
 Modulo desenvolvido para facilitar a criação de Express Route
